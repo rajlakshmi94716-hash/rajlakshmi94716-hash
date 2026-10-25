@@ -1,50 +1,51 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rajlakshmi+Kumari+%F0%9F%91%8B;Data+Science+Student+at+IIT+Madras;Building+AI+%26+Student-Focused+Products;Founder+of+StudySprint" alt="Typing introduction" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:311B92,75:4F46E5,100:00D4FF&height=220&section=header&text=RAJLAKSHMI%20KUMARI&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=FOUNDER%20%7C%20PRODUCT%20BUILDER%20%7C%20DATA%20SCIENCE&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Rajlakshmi Kumari profile banner"/>
 
-<h3>🎓 Data Science Student | 💻 Developer | 🚀 Founder of StudySprint</h3>
-
-<p>
 <a href="https://github.com/rajakshmi94716-hash">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-0B0F19?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Profile"/>
 </a>
 <a href="https://www.linkedin.com/in/rajlakshmi-kumari-founderstudysprint/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
 <a href="https://studysprint-iitm.netlify.app/">
-<img src="https://img.shields.io/badge/StudySprint-IITM-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/StudySprint-IITM-6D5DFB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="StudySprint IIT Madras"/>
 </a>
 <a href="https://studysprint-engineering.netlify.app/">
-<img src="https://img.shields.io/badge/StudySprint-Engineering-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/StudySprint-Engineering-00B8D9?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="StudySprint Engineering"/>
 </a>
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,50:6D28D9,100:0891B2&height=3" width="100%" />
+<br/><br/>
+
+### BUILDING PRODUCTS WITH PURPOSE. ⚡
+
+*Turning ideas into digital experiences that help people learn, grow, and do more.*
 
 </div>
 
-## ✨ About Me
+---
 
-Hey there! I'm **Rajlakshmi Kumari**, pursuing the **BS in Data Science and Applications at IIT Madras**.
+## `01` — THE PERSON BEHIND THE PRODUCTS
 
-I'm interested in using technology to solve practical problems, exploring data, and building digital products that make students' lives easier.
+Hey, I'm **Rajlakshmi Kumari** 👋
 
-- 🎓 Learning Data Science and programming
-- 🐍 Exploring Python, SQL, and data analysis
-- 🤖 Building AI-powered learning applications
-- 🚀 Founder of StudySprint
-- 📊 Interested in Data Science, analytics, and product development
-- 🌱 Learning by building, experimenting, and improving every day
+I'm pursuing the **BS in Data Science and Applications at IIT Madras**, with an interest in building useful digital products and exploring how technology can solve real problems.
+
+- 🚀 **Building:** StudySprint — student-focused learning platforms
+- 🧠 **Exploring:** Data Science, AI, and product development
+- 💡 **Focused on:** Turning ideas into practical digital experiences
+
+> My approach: learn continuously, build intentionally, and improve with every iteration.
 
 ---
 
-## 🚀 Featured Projects
+## `02` — SELECTED PROJECTS
 
 <div align="center">
 
-### 📚 StudySprint — Your Study Journey, Organized.
+### 🚀 THE STUDYSPRINT ECOSYSTEM
 
-Two dedicated platforms. One mission: helping students learn and grow.
+*Two platforms. A shared focus on student learning.*
 
 </div>
 
@@ -52,48 +53,28 @@ Two dedicated platforms. One mission: helping students learn and grow.
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🎓 StudySprint for IIT Madras BS</h3>
+<h3>🎓 StudySprint · IIT Madras</h3>
 
-<p align="center">
-A student-focused platform for organizing the IIT Madras BS academic journey.
-</p>
+A dedicated platform created around the learning journey of IIT Madras BS students.
 
-**Highlights**
+<br/>
 
-- 📅 Study Planner
-- 📝 Curriculum & Deadlines
-- 🤖 AI Study Buddy
-- 🧠 Quiz & Exam Practice
-- 📚 Library & Resources
-
-<p align="center">
 <a href="https://studysprint-iitm.netlify.app/">
-<img src="https://img.shields.io/badge/Explore_Platform-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20PLATFORM-6D5DFB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore IITM StudySprint"/>
 </a>
-</p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">💻 StudySprint for Engineering</h3>
+<h3>💻 StudySprint · Engineering</h3>
 
-<p align="center">
-A platform designed to help engineering students learn, build skills, and prepare for opportunities.
-</p>
+A student-focused platform for the broader engineering learning journey.
 
-**Highlights**
+<br/>
 
-- 📖 Learning Resources
-- 🛣️ Skill Roadmaps
-- 🏆 Tech Events
-- 💼 Placement Preparation
-- ⚡ Interactive Learning Space
-
-<p align="center">
 <a href="https://studysprint-engineering.netlify.app/">
-<img src="https://img.shields.io/badge/Explore_Platform-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20PLATFORM-00B8D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Engineering StudySprint"/>
 </a>
-</p>
 
 </td>
 </tr>
@@ -101,106 +82,74 @@ A platform designed to help engineering students learn, build skills, and prepar
 
 ### 🤖 AI Study Assistant
 
-An AI-powered study assistant built using **Python and the OpenRouter API**, designed to help students ask questions and understand complex topics.
+Exploring AI-assisted learning through a study assistant project associated with Python and the OpenRouter API.
 
-- 🧠 AI-assisted learning
-- 🐍 Python application development
-- 🔌 API integration
-
-<p>
+<div align="left">
 <a href="https://github.com/rajakshmi94716-hash?tab=repositories">
-<img src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories"/>
 </a>
-</p>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-### Programming & Data Science
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### Web Development & Tools
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
-
-### Currently Exploring
-
-<p>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data_Analytics-0891B2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Product_Development-DB2777?style=for-the-badge" />
-</p>
-
----
-
-## 📊 GitHub Analytics
+## `03` — MY TECH WORLD
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajakshmi94716-hash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+**LANGUAGES & DATA**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajakshmi94716-hash&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github&theme=dark" alt="Python, HTML, CSS, Git and GitHub icons"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rajakshmi94716-hash&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajakshmi94716-hash&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+<img src="https://img.shields.io/badge/Data%20Science-Learning-6D5DFB?style=flat-square" alt="Data Science"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-00B8D9?style=flat-square" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Product%20Building-In%20Progress-8B5CF6?style=flat-square" alt="Product Building"/>
 
 </div>
 
 ---
 
-## 🎓 Education
+## `04` — GITHUB ACTIVITY
 
-**Indian Institute of Technology Madras (IIT Madras)**
+<div align="center">
 
-BS in Data Science and Applications | 2026–2030
+<img src="https://github-readme-stats.vercel.app/api?username=rajakshmi94716-hash&show_icons=true&hide_border=true&bg_color=050816&title_color=8B5CF6&icon_color=00D4FF&text_color=E2E8F0&rank_icon=github" height="165" alt="GitHub statistics"/>
 
-Building foundations in mathematics, statistics, programming, and data science.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajakshmi94716-hash&layout=compact&hide_border=true&bg_color=050816&title_color=8B5CF6&text_color=E2E8F0" height="165" alt="Most used languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajakshmi94716-hash&bg_color=050816&color=8B5CF6&line=00D4FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
 
 ---
 
-## 🌱 My Philosophy
+## `05` — WHAT'S NEXT?
 
-> Learn continuously. Build with purpose. Make technology useful.
-
-I believe every project is an opportunity to learn something new, solve a problem, and create something meaningful.
+- 🔭 Keep building and refining StudySprint
+- 📚 Strengthen my foundations in Data Science
+- 🤖 Explore practical applications of AI
+- 🌱 Turn new ideas into projects people can use
 
 ---
 
 <div align="center">
 
-### 🤝 Thanks for Visiting!
+### LET'S BUILD SOMETHING MEANINGFUL. 🌌
 
-**Built with curiosity. Created for students. Powered by ambition.**
-
-<a href="https://github.com/rajakshmi94716-hash">
-<img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+*Curiosity starts it. Consistency builds it.*
 
 <a href="https://www.linkedin.com/in/rajlakshmi-kumari-founderstudysprint/">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="https://github.com/rajakshmi94716-hash">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-6D5DFB?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:0891B2&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:4F46E5,100:050816&height=110&section=footer" width="100%" alt="Neon gradient footer"/>
 
 </div>
