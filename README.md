@@ -132,25 +132,6 @@ An exploration of AI-assisted learning using Python and the OpenRouter API.
 
 ---
 
-## `04 / GITHUB SIGNALS` 📡
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rajakshmi94716-hash&show_icons=true&hide_border=true&bg_color=030712&title_color=A78BFA&icon_color=00E5FF&text_color=E2E8F0&rank_icon=github" height="165" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajakshmi94716-hash&layout=compact&hide_border=true&bg_color=030712&title_color=A78BFA&text_color=E2E8F0" height="165" alt="Most used languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=rajakshmi94716-hash&hide_border=true&background=030712&ring=7C3AED&fire=00E5FF&currStreakLabel=A78BFA&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=00E5FF&dates=94A3B8" width="80%" alt="GitHub streak statistics"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajakshmi94716-hash&bg_color=030712&color=A78BFA&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=CODE%20%7C%20CREATE%20%7C%20REPEAT" width="100%" alt="GitHub activity graph"/>
-
-</div>
-
----
 
 ## `05 / CURRENT MISSION` 🌌
 
